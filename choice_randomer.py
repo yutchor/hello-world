@@ -1,8 +1,8 @@
 #!/usr/bin/env python2.7 
 
-########################
-# Coin Tossing Program #
-########################
+#########################
+# Choice Random Program #
+#########################
 
 import random
 count = 0
